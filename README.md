@@ -1,0 +1,2 @@
+# Mercy
+Effective python autoclicker

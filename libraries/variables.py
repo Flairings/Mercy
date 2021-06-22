@@ -10,5 +10,5 @@ running = False
 project = "Mercy"
 version = 1.0
 author = "Flairings"
-description = "Effective python autoclicker"
+description = "Terrible python autoclicker"
 color = Fore.YELLOW

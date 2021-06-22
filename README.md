@@ -1,2 +1,2 @@
 # Mercy
-Effective python autoclicker
+was on crack while coding this bullshit it's terrible.
